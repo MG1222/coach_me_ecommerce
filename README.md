@@ -12,6 +12,7 @@ Coach Me Ecommerce est une plateforme ecommerce pour acheter des articles de spo
   `SECRET_KEY=sk_test_4eC39HqLyjWDarjtT1zdp7dc rails s`
 * en local : `http://localhost:3000/`
 * en production : `https://coach-me-master.herokuapp.com/`
+* admin : `email: admin@yopmail.com, password: adminadmin
 
 <h2>Architecture</h2>
 
